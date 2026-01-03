@@ -22,11 +22,9 @@ The goal is to build a strong foundation in deep learning and demonstrate practi
 
 ---
 folder_name/
-├── notebooks/ → Jupyter notebooks demonstrating concepts
-├── src/ → Python scripts for training, evaluation, and inference
-├── data/ → Example datasets or links to datasets
-├── results/ → Plots, metrics, and outputs
-└── README.md → Explanation for that topic/project
+├── notebooks/
+├── src/
+└── README.md
 
 
 
