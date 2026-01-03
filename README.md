@@ -32,7 +32,7 @@ folder_name/
 
 ---
 
-##  **How to Run the Code**
+##  How to Run the Code
 
 1. Clone the repository:
 
@@ -40,9 +40,9 @@ folder_name/
 git clone https://github.com/Akansha051991/DeepLearning.git
 cd DeepLearning
 
-**Install dependencies:**
+2.Install dependencies:
 pip install -r requirements.txt
 
-**Run a notebook example:**
+3.Run a notebook example:
 jupyter notebook 01_fundamentals/Perceptron/perceptron_notebook.ipynb
 
